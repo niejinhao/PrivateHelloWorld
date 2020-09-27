@@ -1,0 +1,6 @@
+framework module PrivateHelloWorld {
+  umbrella header "PrivateHelloWorld-umbrella.h"
+
+  export *
+  module * { export * }
+}

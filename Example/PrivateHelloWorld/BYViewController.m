@@ -7,6 +7,7 @@
 //
 
 #import "BYViewController.h"
+#import "PrintHelloWorld.h"
 
 @interface BYViewController ()
 
@@ -18,6 +19,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    [PrintHelloWorld printHelloWorld];
 }
 
 - (void)didReceiveMemoryWarning
