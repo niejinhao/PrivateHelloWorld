@@ -5,6 +5,8 @@ platform :ios, '8.0'
 target 'PrivateHelloWorld_Example' do
   pod 'PrivateHelloWorld', :path => '../'
 
+  pod 'AFNetworking', '3.2.1'
+  
   target 'PrivateHelloWorld_Tests' do
     inherit! :search_paths
 
