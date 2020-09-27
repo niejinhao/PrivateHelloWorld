@@ -1,6 +1,6 @@
 {
   "name": "PrivateHelloWorld",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "PrintHelloWorld",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/niejinhao/PrivateHelloWorld",
@@ -13,16 +13,12 @@
   },
   "source": {
     "git": "https://github.com/niejinhao/PrivateHelloWorld.git",
-    "tag": "0.1.2"
+    "tag": "0.1.4"
   },
   "platforms": {
     "ios": "8.0"
   },
   "source_files": "PrivateHelloWorld/Classes/**/*",
-  "frameworks": [
-    "UIKit",
-    "MapKit"
-  ],
   "dependencies": {
     "AFNetworking": [
       "~> 3.2.1"

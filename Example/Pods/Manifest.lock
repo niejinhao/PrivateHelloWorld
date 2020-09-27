@@ -19,7 +19,7 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - PrivateHelloWorld (0.1.2):
+  - PrivateHelloWorld (0.1.4):
     - AFNetworking (~> 3.2.1)
 
 DEPENDENCIES:
@@ -39,7 +39,7 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  PrivateHelloWorld: b6046a192bee920ce1281a83b282299e0f16b689
+  PrivateHelloWorld: 7a38ceb550354681ff3379455051bab656a48a58
 
 PODFILE CHECKSUM: 675ead3625c04708064001db223c9e4428cb67b7
 
